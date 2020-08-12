@@ -52,3 +52,4 @@ The accuracy of this model was (based off giving 10 Covid and 10 Normal CT scans
 Future adjustments:
   - Train Model on Mycoplasma Pneumoniae, and Viral
   - Output more information instead of 0,1 , explore other models avaliable such as categorical
+  - Modifications, Instead of dropout, use spatial, also can use categorical instead of binary
