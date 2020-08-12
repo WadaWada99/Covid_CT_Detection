@@ -44,7 +44,7 @@ Training Data:
 
 The models accuracy increases as the Epochs increase which is a given. I accounted for over fitting with drop outs and early stoppings.
 
-# Conclusion the model it self performs well and can distinguish between Normal Lung CT scan vs Covid Lung CT Scan with great accuracy.
+### Conclusion: The model it self performs well and can distinguish between Normal Lung CT scan vs Covid Lung CT Scan with great accuracy.
 
 Given a image the model did not train on:
 
