@@ -22,6 +22,8 @@ Training Data:
 
 ![3](https://user-images.githubusercontent.com/60201899/89960605-798a1700-dc0d-11ea-9fd7-af685f793932.PNG)
 
+![10](https://user-images.githubusercontent.com/60201899/89961482-c53dc000-dc0f-11ea-862f-d728399c418f.PNG)
+
 ### Adding a dropout of 50% per hidder layer and a early stopping helped the relationship between loss and validation loss
 
 ##### Before adding dropout and early stopping:
@@ -42,7 +44,16 @@ Training Data:
 
 The models accuracy increases as the Epochs increase which is a given. I accounted for over fitting with drop outs and early stoppings.
 
-# Conclusion the model it self performs well and can distinguish between Normal Lung CT scan vs Covid Lung CT Scan with great accuracy. 
+# Conclusion the model it self performs well and can distinguish between Normal Lung CT scan vs Covid Lung CT Scan with great accuracy.
+
+Given a image the model did not train on:
+
+![8](https://user-images.githubusercontent.com/60201899/89961479-c4a52980-dc0f-11ea-87a0-459d6a0ea587.PNG)
+
+Predicted Correctly!
+
+![9](https://user-images.githubusercontent.com/60201899/89961481-c53dc000-dc0f-11ea-9038-02748945c91d.PNG)
 
 Future adjustments:
   - Train Model on Mycoplasma Pneumoniae, and Viral
+  - Output more information instead of 0,1 , explore other models avaliable such as categorical
