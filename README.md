@@ -40,7 +40,7 @@ Training Data:
 
 ![6](https://user-images.githubusercontent.com/60201899/89960650-99b9d600-dc0d-11ea-8f73-5ad0c4a6cb4a.PNG)
 
-The models accuracy increases as the Epochs increase which is a given. I accouted for over fitting with drop outs and early stoppings. Because this is a binary model (0 = COVID, 1 = Normal) it returns 0 and 1
+The models accuracy increases as the Epochs increase which is a given. I accounted for over fitting with drop outs and early stoppings.
 
 # Conclusion the model it self performs well and can distinguish between Normal Lung CT scan vs Covid Lung CT Scan with great accuracy. 
 
