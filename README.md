@@ -16,7 +16,7 @@ Training Data:
 
 ![IMG-0162-00042](https://user-images.githubusercontent.com/60201899/89960581-6c6d2800-dc0d-11ea-8f51-f59f5a9380fb.jpg)
 
-### Utlized 4 hidden layer of Rectified Linear Units and a Sigmoid Layer for output (example of layer 1):
+### Utlized 4 hidden layers of Rectified Linear Units and a Sigmoid Layer for output (example of layer 1):
 
 ![7](https://user-images.githubusercontent.com/60201899/89960864-1482f100-dc0e-11ea-81cd-0533c78406de.PNG)
 
