@@ -2,6 +2,9 @@
 ### Utilizing Tensor Flow and Keras in training a neural network to distinguish Normal CT scans from Covid-19 CT scans.
 
 Data Sourced From:https://ieee-dataport.org/documents/ccap
+Training Data: 
+  - 1000 images of each COVID and Normal CT Scans for Training
+  - 400 images of each COVID and Normal CT Scans for Validation
 
 ### Sample Images:
 
